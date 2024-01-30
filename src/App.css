@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.wrapper{
+  display: flex;
+  flex-direction: column;
+}
+
+.cartValue{
+  font-style: italic;
+}
+
+.deliveryDistance{
+  font-style: italic;
+}
+
+.numberItem{
+  font-style: italic;
+}
+
+.dateTime{
+  font-style: italic;
+}
